@@ -28,10 +28,13 @@ torch: The backend framework for the summarization model.
 
 Usage 🚀
 
-Clone this repository or save the script file (summarize_article.py) to your local machine.
-Open your terminal or command prompt.
-Navigate to the directory where you saved the file.
-Run the script using the following command:
+Step 1: Clone this repository or save the script file (summarize_article.py) to your local machine.
+
+Step 2: Open your terminal or command prompt.
+
+Step 3: Navigate to the directory where you saved the file.
+
+Step 4: Run the script using the following command:
 ➡️ python summarize_article.py
 
 Please enter the article URL and press Enter: [YOUR_ARTICLE_URL_HERE]
