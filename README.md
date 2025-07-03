@@ -1,8 +1,8 @@
-﻿Article Summarizer 📰
+**﻿Article Summarizer 📰**
  
 This Python script fetches a news article from a given URL, extracts its main text content, and then uses a pre-trained model from the Hugging Face Transformers library to generate a concise summary.
 
-How It Works ⚙️
+**How It Works ⚙️**
 
 The script performs the following steps:
 
@@ -14,7 +14,7 @@ The script performs the following steps:
 
 📄 Display Output: The final, condensed summary is printed neatly to the console for the user to read.
 
-Prerequisites 🛠️
+**Prerequisites 🛠️**
 
 Before running the script, you need to have Python 3 installed. You will also need to install the necessary libraries.
 
@@ -26,7 +26,7 @@ transformers: For using the summarization pipeline from Hugging Face.
 
 torch: The backend framework for the summarization model.
 
-Usage 🚀
+**Usage 🚀**
 
 Step 1: Clone this repository or save the script file (summarize_article.py) to your local machine.
 
