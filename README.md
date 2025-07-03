@@ -1,6 +1,6 @@
 <h1>﻿Article Summarizer 📰<h1>
  
-This Python script fetches a news article from a given URL, extracts its main text content, and then uses a pre-trained model from the Hugging Face Transformers library to generate a concise summary.
+<h4>This Python script fetches a news article from a given URL, extracts its main text content, and then uses a pre-trained model from the Hugging Face Transformers library to generate a concise summary.<h4>
 
 **How It Works ⚙️**
 
